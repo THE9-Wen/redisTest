@@ -27,7 +27,7 @@
 <div class="container">
     <br><br>
     <div class="row">
-        <form class="form-inline">
+        <form class="form-inline" action="verify" method="post">
             <div class="form-group">
                 <input type="text" class="form-control" id="phone" placeholder="电话">
                 <button class="btn btn-default">获取验证码</button>
